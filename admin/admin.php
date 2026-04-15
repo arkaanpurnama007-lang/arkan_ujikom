@@ -74,7 +74,7 @@ $done = getTasks($conn, 'Done', $search, $filter_own, $admin_id);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Admin Dashboard</title>
+    <title>Arkan Dashboard</title>
     <link rel="stylesheet" href="../assets/style.css?v=<?= time(); ?>">
     <script>
         function confirmLogout() {
